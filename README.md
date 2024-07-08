@@ -1,0 +1,2 @@
+# QL
+packshot.cfg
