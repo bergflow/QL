@@ -4,7 +4,7 @@ using modified cypher HUD
 
 /keybinds
 bind TAB "+scores"
-bind ENTER "+button2"
+bind ENTER "+button2"  
 bind ESCAPE "togglemenu"
 bind SPACE "+zoom"
 bind / "weapnext"
