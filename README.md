@@ -1,5 +1,5 @@
 # Quake Live
-packshot.cfg
+packshot.cfg (compressed with essential commands) 
 high visibility & smooth textures. 
 using inspectre HUD.
 
@@ -62,6 +62,8 @@ bind MWHEELUP "weapon 5"
 /game & video
 seta cg_hudFiles "ui/inspectreHUD.cfg"
 seta sensitivity "1.5"
+seta cg_fov "102"
+seta cg_zoomfov "54"
 seta r_picmip "8"
 seta r_fullbright "1"
 seta r_vertexLight "0"
