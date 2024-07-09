@@ -351,6 +351,3 @@ seta cg_announcerLastStandingVO "1"
 seta cg_announcer "1"
 seta cg_allowTaunt "0"
 seta cg_marks "1"
-
-
-
